@@ -2,7 +2,7 @@
 
 # Apollo Training
 
-在原始Apollo代码基础上改进了训练集格式以及训练过程<br>
+在[原始Apollo代码](https://github.com/JusperLee/Apollo)基础上改进了训练集格式以及训练过程<br>
 Improve the training set production process and the training process
 
 </div>
